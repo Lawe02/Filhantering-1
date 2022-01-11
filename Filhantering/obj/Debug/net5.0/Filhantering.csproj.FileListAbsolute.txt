@@ -1,0 +1,16 @@
+C:\Filhantering\Filhantering\bin\Debug\net5.0\Filhantering.exe
+C:\Filhantering\Filhantering\bin\Debug\net5.0\Filhantering.deps.json
+C:\Filhantering\Filhantering\bin\Debug\net5.0\Filhantering.runtimeconfig.json
+C:\Filhantering\Filhantering\bin\Debug\net5.0\Filhantering.runtimeconfig.dev.json
+C:\Filhantering\Filhantering\bin\Debug\net5.0\Filhantering.dll
+C:\Filhantering\Filhantering\bin\Debug\net5.0\ref\Filhantering.dll
+C:\Filhantering\Filhantering\bin\Debug\net5.0\Filhantering.pdb
+C:\Filhantering\Filhantering\obj\Debug\net5.0\Filhantering.csproj.AssemblyReference.cache
+C:\Filhantering\Filhantering\obj\Debug\net5.0\Filhantering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Filhantering\Filhantering\obj\Debug\net5.0\Filhantering.AssemblyInfoInputs.cache
+C:\Filhantering\Filhantering\obj\Debug\net5.0\Filhantering.AssemblyInfo.cs
+C:\Filhantering\Filhantering\obj\Debug\net5.0\Filhantering.csproj.CoreCompileInputs.cache
+C:\Filhantering\Filhantering\obj\Debug\net5.0\Filhantering.dll
+C:\Filhantering\Filhantering\obj\Debug\net5.0\ref\Filhantering.dll
+C:\Filhantering\Filhantering\obj\Debug\net5.0\Filhantering.pdb
+C:\Filhantering\Filhantering\obj\Debug\net5.0\Filhantering.genruntimeconfig.cache

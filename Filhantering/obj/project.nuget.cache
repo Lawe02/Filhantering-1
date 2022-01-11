@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "22ferxqN0SEFxGg1m6toXYR9nzCb7Nb7PEwIzylTIeQnhsiTxF6jMkzOczZKOsNXXpirbwzadn8MKNtqh8erlg==",
+  "success": true,
+  "projectFilePath": "C:\\Filhantering\\Filhantering\\Filhantering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TE4_02\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
